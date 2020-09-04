@@ -1,0 +1,6 @@
+
+.idea/
+
+*.pdf
+
+src/.ipynb_checkpoints/
